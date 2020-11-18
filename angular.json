@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-tic-tac-toe-basic-conceps"
+    }
+  },
+  "defaultProject": "Angular-tic-tac-toe-basic-conceps",
+  "cli": {
+    "analytics": false
+  }
 }
